@@ -1,1 +1,1 @@
-# Weather app made with React
+# Weather app made with React and openweather API
